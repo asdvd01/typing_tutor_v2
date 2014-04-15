@@ -1,0 +1,30 @@
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\Typing Tutor v2.exe
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\Typing Tutor v2.pdb
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\resources.pri
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\AppxManifest.xml
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\Typing Tutor v2.build.appxrecipe
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\App.g.i.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\App.g.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\Common\StandardStyles.g.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\MainPage.g.i.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\MainPage.g.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\App.xaml
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\Common\StandardStyles.xaml
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\MainPage.xaml
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\Typing Tutor v2.exe
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\Typing Tutor v2.pdb
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\priconfig.xml
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\layout.resfiles
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\resources.resfiles
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\pri.resfiles
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\LanguageQualifiers.txt
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\ProjectArchitectures.txt
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\IndexPage.g.i.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\IndexPage.g.cs
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\IndexPage.xaml
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\priconfig.xml.intermediate
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\layout.resfiles.intermediate
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\resources.resfiles.intermediate
+c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\obj\Debug\pri.resfiles.intermediate

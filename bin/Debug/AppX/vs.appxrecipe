@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LENOVO</Machine>
+    <WindowsUser>Ashutosh Dwivedi</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>B35C4FFB479A1054B7071DFA2FE793323ED3E15A6D1855501A41ABE818F6E1A0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0d4ec1a8-731a-43f0-8baf-a2f23744655f_1.0.0.0_neutral__q2kaqmfjn9sgj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0d4ec1a8-731a-43f0-8baf-a2f23744655f_q2kaqmfjn9sgj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0d4ec1a8-731a-43f0-8baf-a2f23744655f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ashutosh Dwivedi</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-07T21:53:52.680</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\Typing Tutor v2.exe">
+      <PackagePath>Typing Tutor v2.exe</PackagePath>
+      <Modified>2014-02-07T21:53:52.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\Typing Tutor v2.pdb">
+      <PackagePath>Typing Tutor v2.pdb</PackagePath>
+      <Modified>2014-02-07T21:53:52.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\Assets\about.png">
+      <PackagePath>Assets\about.png</PackagePath>
+      <Modified>2014-02-07T21:53:47.447</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-02-07T21:06:38.384</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-02-07T21:05:47.534</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\IndexPage.xaml">
+      <PackagePath>IndexPage.xaml</PackagePath>
+      <Modified>2014-02-07T21:50:57.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-02-07T21:50:57.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ashutosh dwivedi\documents\visual studio 2012\Projects\Typing Tutor v2\Typing Tutor v2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-02-07T21:51:02.573</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
